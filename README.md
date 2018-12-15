@@ -1,0 +1,2 @@
+# Automatic-garden-sprinkler
+This code helps you to automatically turn on the garden sprinkler everyday for required duration. In this particular code the relay will turn on for 2 hours everyday between 1st October and  5th June. One hour in the evening while one hour in the morning. From 6th June to 30th September, The sprinkler will turn on twice in a day for a minute. A rain sensor is also connected to skip the sprinkler for a cycle.
